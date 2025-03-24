@@ -36,7 +36,7 @@ Follow the steps below to set up and run the project.
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone git@github.com:Snupiesp/convolutive_neural_networks.git
+git clone https://github.com/Charlietope/convolutive_neural_network.git
 cd artificial_vision
 ```
 
